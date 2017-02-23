@@ -1,0 +1,13 @@
+﻿.image { 
+   position: relative; 
+   width: 100%;
+}
+
+p { 
+   color: aquamarine;
+   font-weight: bold;
+   position: absolute; 
+   top: 185px;
+   left: 193px;
+   width: 100%; 
+}
